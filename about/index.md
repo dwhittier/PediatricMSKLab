@@ -85,6 +85,9 @@ Our research is supported through competitive funding programs and collaborative
   <a class="funding-card funding-card--logo" href="https://www.sickkidsfoundation.com/aboutus/grantsandawards/newinvestigatorresearchgrants/grantrecipients" target="_blank" rel="noopener">
     <img src="/images/funding-sickkids-foundation.png" alt="SickKids Foundation logo">
   </a>
+  <article class="funding-card funding-card--logo">
+    <img src="/images/funding-alberta-childrens-hospital-foundation.png" alt="Alberta Children’s Hospital Foundation logo">
+  </article>
   <a class="funding-card funding-card--logo" href="https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=507913&lang=en" target="_blank" rel="noopener">
     <img src="/images/funding-cihr.png" alt="Canadian Institutes of Health Research logo">
   </a>
