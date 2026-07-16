@@ -73,3 +73,35 @@ By studying how bone grows, adapts, and responds to disease, injury, and treatme
     <span>Transforming research discoveries into improved pediatric care.</span>
   </a>
 </div>
+
+## Funding and Institutional Affiliations
+
+Our research is supported through competitive funding programs, institutional infrastructure, and collaborative partnerships across pediatric health, musculoskeletal science, and biomedical imaging.
+
+<div class="funding-grid">
+  <article class="funding-card funding-card--placeholder">
+    <span class="funding-card__logo">Logo</span>
+    <strong>Funding Source</strong>
+    <span>Add funder name and logo here.</span>
+  </article>
+  <article class="funding-card funding-card--placeholder">
+    <span class="funding-card__logo">Logo</span>
+    <strong>Funding Source</strong>
+    <span>Add grant program or foundation here.</span>
+  </article>
+  <article class="funding-card funding-card--placeholder">
+    <span class="funding-card__logo">Logo</span>
+    <strong>Institutional Affiliation</strong>
+    <span>University of Calgary</span>
+  </article>
+  <article class="funding-card funding-card--placeholder">
+    <span class="funding-card__logo">Logo</span>
+    <strong>Institutional Affiliation</strong>
+    <span>Alberta Children’s Hospital Research Institute</span>
+  </article>
+  <article class="funding-card funding-card--placeholder">
+    <span class="funding-card__logo">Logo</span>
+    <strong>Institutional Affiliation</strong>
+    <span>McCaig Institute for Bone and Joint Health</span>
+  </article>
+</div>
