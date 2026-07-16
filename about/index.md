@@ -78,16 +78,24 @@ By studying how bone grows, adapts, and responds to disease, injury, and treatme
 
 Our research is supported through competitive funding programs and collaborative partnerships across pediatric health, musculoskeletal science, and biomedical imaging. Funding logos can be added here as the lab’s active funding portfolio grows.
 
-<div class="funding-grid funding-grid--placeholders">
-  <article class="funding-card funding-card--placeholder">
-    <span class="funding-card__logo">Logo</span>
-    <strong>Funding Source</strong>
-    <span>Add funder name and logo here.</span>
+<div class="funding-grid funding-grid--logos">
+  <article class="funding-card funding-card--logo">
+    <img src="/images/funding-nserc.png" alt="NSERC CRSNG logo">
   </article>
-  <article class="funding-card funding-card--placeholder">
-    <span class="funding-card__logo">Logo</span>
-    <strong>Funding Source</strong>
-    <span>Add grant program or foundation here.</span>
+  <article class="funding-card funding-card--logo">
+    <img src="/images/funding-sickkids-foundation.png" alt="SickKids Foundation logo">
+  </article>
+  <article class="funding-card funding-card--logo">
+    <img src="/images/funding-cihr.png" alt="Canadian Institutes of Health Research logo">
+  </article>
+  <article class="funding-card funding-card--logo">
+    <img src="/images/funding-cfi.png" alt="Canada Foundation for Innovation logo">
+  </article>
+  <article class="funding-card funding-card--logo">
+    <img src="/images/funding-canada-research-chairs.png" alt="Canada Research Chairs logo">
+  </article>
+  <article class="funding-card funding-card--logo">
+    <img src="/images/funding-one-child-every-child.png" alt="One Child Every Child logo">
   </article>
 </div>
 
