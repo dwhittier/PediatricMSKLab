@@ -98,14 +98,11 @@ The Pediatric Musculoskeletal Imaging Lab is based at the University of Calgary 
 <div class="affiliation-grid">
   <article class="affiliation-card">
     <img src="/images/affiliation-university-of-calgary.png" alt="University of Calgary logo">
-    <strong>University of Calgary</strong>
   </article>
   <article class="affiliation-card">
     <img src="/images/affiliation-achri.png" alt="Alberta Children’s Hospital Research Institute logo">
-    <strong>Alberta Children’s Hospital Research Institute</strong>
   </article>
   <article class="affiliation-card">
     <img src="/images/affiliation-mccaig.png" alt="McCaig Institute for Bone and Joint Health logo">
-    <strong>McCaig Institute for Bone and Joint Health</strong>
   </article>
 </div>
