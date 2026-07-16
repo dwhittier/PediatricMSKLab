@@ -79,24 +79,24 @@ By studying how bone grows, adapts, and responds to disease, injury, and treatme
 Our research is supported through competitive funding programs and collaborative partnerships across pediatric health, musculoskeletal science, and biomedical imaging. Funding logos can be added here as the lab’s active funding portfolio grows.
 
 <div class="funding-grid funding-grid--logos">
-  <article class="funding-card funding-card--logo">
+  <a class="funding-card funding-card--logo" href="https://nserc-crsng.canada.ca/en/awards-database/809915" target="_blank" rel="noopener">
     <img src="/images/funding-nserc.png" alt="NSERC CRSNG logo">
-  </article>
-  <article class="funding-card funding-card--logo">
+  </a>
+  <a class="funding-card funding-card--logo" href="https://www.sickkidsfoundation.com/aboutus/grantsandawards/newinvestigatorresearchgrants/grantrecipients" target="_blank" rel="noopener">
     <img src="/images/funding-sickkids-foundation.png" alt="SickKids Foundation logo">
-  </article>
-  <article class="funding-card funding-card--logo">
+  </a>
+  <a class="funding-card funding-card--logo" href="https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=507913&lang=en" target="_blank" rel="noopener">
     <img src="/images/funding-cihr.png" alt="Canadian Institutes of Health Research logo">
-  </article>
+  </a>
   <article class="funding-card funding-card--logo">
     <img src="/images/funding-cfi.png" alt="Canada Foundation for Innovation logo">
   </article>
-  <article class="funding-card funding-card--logo">
+  <a class="funding-card funding-card--logo" href="https://ucalgary.ca/news/eight-ucalgary-researchers-appointed-new-canada-research-chairs" target="_blank" rel="noopener">
     <img src="/images/funding-canada-research-chairs.png" alt="Canada Research Chairs logo">
-  </article>
-  <article class="funding-card funding-card--logo">
+  </a>
+  <a class="funding-card funding-card--logo" href="https://research.ucalgary.ca/research/our-impact/one-child-every-child-canada-first-research-excellence-fund-cfref/one-child-every-child-strategic-catalyst-grant-awardees" target="_blank" rel="noopener">
     <img src="/images/funding-one-child-every-child.png" alt="One Child Every Child logo">
-  </article>
+  </a>
 </div>
 
 ## Institutional Affiliations
