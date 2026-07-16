@@ -74,11 +74,11 @@ By studying how bone grows, adapts, and responds to disease, injury, and treatme
   </a>
 </div>
 
-## Funding and Institutional Affiliations
+## Funding
 
-Our research is supported through competitive funding programs, institutional infrastructure, and collaborative partnerships across pediatric health, musculoskeletal science, and biomedical imaging.
+Our research is supported through competitive funding programs and collaborative partnerships across pediatric health, musculoskeletal science, and biomedical imaging. Funding logos can be added here as the lab’s active funding portfolio grows.
 
-<div class="funding-grid">
+<div class="funding-grid funding-grid--placeholders">
   <article class="funding-card funding-card--placeholder">
     <span class="funding-card__logo">Logo</span>
     <strong>Funding Source</strong>
@@ -89,19 +89,23 @@ Our research is supported through competitive funding programs, institutional in
     <strong>Funding Source</strong>
     <span>Add grant program or foundation here.</span>
   </article>
-  <article class="funding-card funding-card--placeholder">
-    <span class="funding-card__logo">Logo</span>
-    <strong>Institutional Affiliation</strong>
-    <span>University of Calgary</span>
+</div>
+
+## Institutional Affiliations
+
+The Pediatric Musculoskeletal Imaging Lab is based at the University of Calgary and works within a strong research ecosystem spanning pediatric health, bone and joint health, and biomedical imaging.
+
+<div class="affiliation-grid">
+  <article class="affiliation-card">
+    <img src="/images/affiliation-university-of-calgary.png" alt="University of Calgary logo">
+    <strong>University of Calgary</strong>
   </article>
-  <article class="funding-card funding-card--placeholder">
-    <span class="funding-card__logo">Logo</span>
-    <strong>Institutional Affiliation</strong>
-    <span>Alberta Children’s Hospital Research Institute</span>
+  <article class="affiliation-card">
+    <img src="/images/affiliation-achri.png" alt="Alberta Children’s Hospital Research Institute logo">
+    <strong>Alberta Children’s Hospital Research Institute</strong>
   </article>
-  <article class="funding-card funding-card--placeholder">
-    <span class="funding-card__logo">Logo</span>
-    <strong>Institutional Affiliation</strong>
-    <span>McCaig Institute for Bone and Joint Health</span>
+  <article class="affiliation-card">
+    <img src="/images/affiliation-mccaig.png" alt="McCaig Institute for Bone and Joint Health logo">
+    <strong>McCaig Institute for Bone and Joint Health</strong>
   </article>
 </div>
