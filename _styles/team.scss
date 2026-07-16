@@ -16,7 +16,7 @@ main > section:has(.team-intro-band) {
   padding-bottom: 30px;
   background:
     radial-gradient(circle at 0 10%, rgba(255, 107, 87, 0.12) 0 120px, transparent 121px),
-    radial-gradient(circle at 92% 0, rgba(246, 181, 27, 0.2) 0 130px, transparent 131px),
+    radial-gradient(circle at 92% 0, rgba(215, 25, 32, 0.11) 0 130px, transparent 131px),
     #ffffff !important;
 }
 
@@ -88,8 +88,8 @@ main > section:has(.team-page) {
   background:
     radial-gradient(circle at 2% 88%, rgba(56, 189, 248, 0.14) 0 165px, transparent 166px),
     radial-gradient(circle at 100% 78%, rgba(255, 107, 87, 0.18) 0 190px, transparent 191px),
-    radial-gradient(circle at 88% 12%, rgba(246, 181, 27, 0.12) 0 90px, transparent 91px),
-    linear-gradient(180deg, #fffaf0 0%, #fffdf8 48%, #ffffff 100%) !important;
+    radial-gradient(circle at 88% 12%, rgba(255, 107, 87, 0.10) 0 90px, transparent 91px),
+    linear-gradient(180deg, #fff5f5 0%, #fffdf8 48%, #ffffff 100%) !important;
 }
 
 main > section:has(.team-page)::before {
@@ -130,7 +130,7 @@ main > section:has(.team-page)::before {
   border: 1px solid rgba(23, 25, 31, 0.08);
   border-radius: 20px;
   background:
-    radial-gradient(circle at 3% 20%, rgba(246, 181, 27, 0.18) 0 56px, transparent 57px),
+    radial-gradient(circle at 3% 20%, rgba(255, 107, 87, 0.14) 0 56px, transparent 57px),
     linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(255, 253, 248, 0.92));
   box-shadow: 0 16px 42px rgba(90, 20, 20, 0.08);
 }
@@ -193,7 +193,7 @@ main > section:has(.team-page)::before {
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
-  background: #fff4da;
+  background: #fff0f1;
 }
 
 .photo-card--large img {
@@ -209,9 +209,9 @@ main > section:has(.team-page)::before {
   font-size: 2rem;
   letter-spacing: 0.03em;
   background:
-    radial-gradient(circle at 22% 22%, rgba(246, 181, 27, 0.36) 0 54px, transparent 55px),
+    radial-gradient(circle at 22% 22%, rgba(215, 25, 32, 0.16) 0 54px, transparent 55px),
     radial-gradient(circle at 88% 80%, rgba(255, 107, 87, 0.22) 0 86px, transparent 87px),
-    linear-gradient(135deg, #fff4da, #f5fbff);
+    linear-gradient(135deg, #fff0f1, #f5fbff);
 }
 
 .photo-card h3,

@@ -25,8 +25,8 @@ header {
   overflow: visible;
   background:
     radial-gradient(circle at 2% 18%, rgba(215, 25, 32, 0.12) 0 54px, transparent 56px),
-    radial-gradient(circle at 93% 0%, rgba(246, 181, 27, 0.24) 0 120px, transparent 122px),
-    linear-gradient(105deg, rgba(255, 253, 248, 0.98) 0 62%, rgba(255, 249, 236, 0.98) 62% 100%);
+    radial-gradient(circle at 93% 0%, rgba(215, 25, 32, 0.12) 0 120px, transparent 122px),
+    linear-gradient(105deg, rgba(255, 253, 248, 0.98) 0 62%, rgba(255, 241, 242, 0.98) 62% 100%);
   border-bottom: 1px solid var(--outline);
   box-shadow: 0 8px 28px rgba(23, 25, 31, 0.05);
 
@@ -46,8 +46,8 @@ header.background {
 
   background:
     radial-gradient(circle at 2% 18%, rgba(215, 25, 32, 0.12) 0 54px, transparent 56px),
-    radial-gradient(circle at 93% 0%, rgba(246, 181, 27, 0.24) 0 120px, transparent 122px),
-    linear-gradient(105deg, rgba(255, 253, 248, 0.98) 0 62%, rgba(255, 249, 236, 0.98) 62% 100%);
+    radial-gradient(circle at 93% 0%, rgba(215, 25, 32, 0.12) 0 120px, transparent 122px),
+    linear-gradient(105deg, rgba(255, 253, 248, 0.98) 0 62%, rgba(255, 241, 242, 0.98) 62% 100%);
   color: var(--text);
 }
 
@@ -220,7 +220,7 @@ nav > a:hover,
 
 .nav-menu a:hover {
   color: var(--primary);
-  background: #fff5df;
+  background: #fff1f2;
 }
 
 .nav-dropdown:focus-within .nav-menu,

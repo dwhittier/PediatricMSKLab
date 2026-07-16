@@ -8,7 +8,7 @@ main > section:has(.subpage-hero) {
   padding-bottom: 34px;
   background:
     radial-gradient(circle at 0 14%, rgba(255, 107, 87, 0.11) 0 128px, transparent 129px),
-    radial-gradient(circle at 94% 0, rgba(246, 181, 27, 0.18) 0 132px, transparent 133px),
+    radial-gradient(circle at 94% 0, rgba(215, 25, 32, 0.10) 0 132px, transparent 133px),
     #ffffff !important;
 }
 
@@ -48,7 +48,7 @@ main > section:has(.subpage-hero) + section {
   background:
     radial-gradient(circle at 2% 92%, rgba(56, 189, 248, 0.12) 0 150px, transparent 151px),
     radial-gradient(circle at 100% 88%, rgba(255, 107, 87, 0.14) 0 180px, transparent 181px),
-    linear-gradient(180deg, #fffaf0 0%, #fffdf8 46%, #ffffff 100%) !important;
+    linear-gradient(180deg, #fff5f5 0%, #fffdf8 46%, #ffffff 100%) !important;
 }
 
 main > section:has(.subpage-hero) + section::before {
@@ -162,7 +162,7 @@ main > section:has(.subpage-hero--photos)::after {
 
 main > section:has(.subpage-hero--preclinical) {
   background:
-    radial-gradient(circle at 0 14%, rgba(246, 181, 27, 0.12) 0 128px, transparent 129px),
+    radial-gradient(circle at 0 14%, rgba(255, 107, 87, 0.10) 0 128px, transparent 129px),
     radial-gradient(circle at 94% 0, rgba(255, 107, 87, 0.16) 0 132px, transparent 133px),
     #ffffff !important;
 }
@@ -171,7 +171,7 @@ main > section:has(.subpage-hero--participate),
 main > section:has(.subpage-hero--contact) {
   background:
     radial-gradient(circle at 0 14%, rgba(56, 189, 248, 0.12) 0 128px, transparent 129px),
-    radial-gradient(circle at 94% 0, rgba(246, 181, 27, 0.18) 0 132px, transparent 133px),
+    radial-gradient(circle at 94% 0, rgba(215, 25, 32, 0.10) 0 132px, transparent 133px),
     #ffffff !important;
 }
 

@@ -13,9 +13,9 @@ footer {
   overflow: hidden;
   line-height: var(--spacing);
   background:
-    radial-gradient(circle at 8% 15%, rgba(246, 181, 27, 0.24) 0 112px, transparent 114px),
+    radial-gradient(circle at 8% 15%, rgba(215, 25, 32, 0.12) 0 112px, transparent 114px),
     radial-gradient(circle at 94% 74%, rgba(215, 25, 32, 0.16) 0 128px, transparent 130px),
-    linear-gradient(112deg, #fffdf8 0 58%, #fff4da 58% 100%);
+    linear-gradient(112deg, #fffdf8 0 58%, #fff0f1 58% 100%);
   border-top: 1px solid var(--outline);
   box-shadow: 0 -12px 36px rgba(23, 25, 31, 0.06);
 }
