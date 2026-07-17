@@ -1,12 +1,10 @@
 hero:
   headline:
-    - text: Imaging today
+    - text: Pediatric
       accent: false
-    - text: for
+    - text: Musculoskeletal
       accent: false
-    - text: stronger
-      accent: true
-    - text: tomorrows
+    - text: Imaging Lab
       accent: true
   lede: We investigate how musculoskeletal tissues grow and respond using advanced imaging and experimental models—so kids can thrive.
   circles:
