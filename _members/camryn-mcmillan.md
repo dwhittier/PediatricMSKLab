@@ -1,6 +1,6 @@
 ---
 name: Camryn McMillan
-image: images/camryn-mcmillan-headshot.png
+image: images/camryn-mcmillan-headshot.jpg
 role: phd
 status: current
 affiliation: University of Calgary

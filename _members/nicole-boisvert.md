@@ -1,6 +1,6 @@
 ---
 name: Nicole Boisvert
-image: images/nicole-boisvert-headshot.png
+image: images/nicole-boisvert-headshot.jpg
 role: research-coordinator
 status: current
 affiliation: University of Calgary
