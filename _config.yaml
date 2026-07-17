@@ -2,6 +2,8 @@
 title: Pediatric Musculoskeletal Imaging Lab
 subtitle: University of Calgary
 description: We use advanced and multimodal imaging to understand how growing bones develop, adapt, and stay healthy.
+url: https://pediatricmsklab.ca
+baseurl: ""
 header: images/hero-placeholder.svg
 footer: images/hero-placeholder.svg
 proofer: false
