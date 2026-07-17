@@ -10,19 +10,19 @@ hero:
   circles:
     - image: images/home-hex-hrpqct-scan.jpg
       alt: HR-pQCT scanner used for pediatric musculoskeletal imaging
-      style: network
+      style: top-left
     - image: images/home-circle-knee.png
       alt: Knee imaging used to study pediatric musculoskeletal health
-      style: child
+      style: top-right
     - image: images/home-circle-lacunae.png
       alt: MicroCT image of bone lacunae
-      style: microct
+      style: bottom-left
     - image: images/home-hex-bone-render.jpg
       alt: Three-dimensional fracture healing visualization with highlighted bone remodeling regions
-      style: mri
+      style: bottom-right
     - image: images/home-circle-tibia.png
       alt: High-resolution tibia image from preclinical bone imaging
-      style: scanner
+      style: hidden
   primary_button:
     text: OUR RESEARCH
     link: research
