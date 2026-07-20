@@ -435,6 +435,9 @@
   .lab-hero__visual {
     display: none;
   }
+  .background[data-size=full] > .lab-highlights {
+    margin-top: 20px;
+  }
 }
 @media (max-width: 640px) {
   .lab-hero {
@@ -475,9 +478,12 @@
   .lab-highlights {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     width: min(100% - 16px, 520px);
-    margin-top: -48px;
+    margin-top: 16px;
     padding: 10px;
     border-radius: 20px;
+  }
+  .background[data-size=full] > .lab-highlights {
+    margin-top: 16px;
   }
   .lab-highlight {
     grid-template-columns: 28px 1fr;
