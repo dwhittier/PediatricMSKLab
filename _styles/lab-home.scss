@@ -441,7 +441,7 @@
     grid-template-columns: 1fr;
     min-height: auto;
     padding-top: 42px;
-    padding-bottom: 96px;
+    padding-bottom: 56px;
   }
 
   .lab-hero__copy {
@@ -449,12 +449,7 @@
   }
 
   .lab-hero__visual {
-    min-height: min(76vw, 620px);
-  }
-
-  .lab-hero__hexgrid {
-    width: min(100%, 860px);
-    margin-inline: auto;
+    display: none;
   }
 }
 
@@ -465,22 +460,6 @@
 
   .lab-hero__headline {
     font-size: clamp(2.7rem, 13vw, 3.8rem);
-  }
-
-  .lab-hero__visual {
-    min-height: 360px;
-  }
-
-  .lab-hero__hexgrid {
-    width: min(100%, 620px);
-  }
-
-  .lab-hero__hex {
-    padding: 5px;
-  }
-
-  .lab-hero__hex::before {
-    inset: 5px;
   }
 
   .lab-hero__shape--red {
