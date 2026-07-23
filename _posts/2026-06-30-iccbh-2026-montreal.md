@@ -19,6 +19,6 @@ Camryn McMillan presented a poster on pediatric fracture healing, highlighting o
 
 And because Montréal knows how to put on a show, we also made time for Cirque du Soleil — a pretty excellent reminder that biomechanics can be both scientifically fascinating and wildly entertaining.
 
-{% include figure.html image="images/news/iccbh-2026-alana-podium.jpg" caption="Alana Stahl presenting a late-breaking podium presentation on sex-specific differences in bone marrow adiposity during growth at ICCBH 2026." width="100%" %}
+{% include figure.html image="images/news/iccbh-2026-alana-podium.jpg" caption="Alana Stahl presenting a late-breaking podium presentation on sex-specific differences in bone marrow adiposity during growth at ICCBH 2026." width="50%" %}
 
-{% include figure.html image="images/news/iccbh-2026-cirque-montreal.jpg" caption="A fun Montréal evening at Cirque du Soleil during ICCBH 2026." width="100%" %}
+{% include figure.html image="images/news/iccbh-2026-cirque-montreal.jpg" caption="A fun Montréal evening at Cirque du Soleil during ICCBH 2026." width="50%" %}
